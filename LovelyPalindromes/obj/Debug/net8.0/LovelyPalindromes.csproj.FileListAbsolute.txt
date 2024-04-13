@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\bin\Debug\net8.0\LovelyPalindromes.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\bin\Debug\net8.0\LovelyPalindromes.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\bin\Debug\net8.0\LovelyPalindromes.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\bin\Debug\net8.0\LovelyPalindromes.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\bin\Debug\net8.0\LovelyPalindromes.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\LovelyPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\LovelyPalindromes.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\LovelyPalindromes.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\LovelyPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\LovelyPalindromes.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\refint\LovelyPalindromes.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\LovelyPalindromes.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\LovelyPalindromes.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\LovelyPalindromes\LovelyPalindromes\obj\Debug\net8.0\ref\LovelyPalindromes.dll
